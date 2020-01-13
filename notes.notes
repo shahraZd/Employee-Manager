@@ -1,0 +1,8 @@
+!Buggs: !
+[] hover triggered in table row
+[] cannot display profile after editing
+[v] Encountered two children with the same key, `id`.
+Todo:
+[] popconfirm
+[] form in modal refs
+

@@ -1,0 +1,35 @@
+.unavailable-data {
+  height: 80%;
+
+  .tracks-failure-message {
+    text-align: center;
+
+    .unavailable-data-icon {
+      margin-bottom: 30px;
+
+      .anticon {
+        font-size: 180px !important;
+        color: #dfdfdf !important;
+      }
+    }
+
+    .unavailable-data-message {
+      margin-bottom: 40px;
+      font-size: 23px;
+      color: #393c40;
+      line-height: 17px;
+    }
+
+    .unavailable-data-btn {
+      width: 160px;
+      height: 50px;
+      background-color: #170ff0 !important;
+      border-radius: 3px;
+      font-size: 16px;
+      color: white;
+      font-weight: normal;
+      padding: 0;
+      border-color: transparent !important;
+    }
+  }
+}

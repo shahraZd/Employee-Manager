@@ -1,0 +1,33 @@
+
+.antCol {
+  padding: 25px !important;
+  margin: 10px !important;
+  box-shadow: 0 0 5px #999;
+  background-color: #fff;
+}
+.logo-profile {
+  width: 50%;
+  margin-bottom: 20px;
+}
+.bold {
+  font-weight: bold;
+}
+.purple {
+  color: purple;
+}
+.education {
+  text-align: center;
+  font-weight: 900;
+  color: red;
+}
+.seperator {
+  text-align: center;
+  font-weight: 900;
+  color: red;
+}
+
+// @media screen and (min-width: 769px) {
+//   .layout {
+//     flex-wrap: wrap;
+//   }
+// }
